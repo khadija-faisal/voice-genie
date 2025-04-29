@@ -32,9 +32,9 @@ voice-genie/ ├── app.py # Main entry point ├── assistant.py # Voice 
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/your-username/voice-genie.git
+git clone https://github.com/khadija-faisal/voice-genie.git
 cd voice-genie
-2. Set up environment with uv
+2. Set up the environment with UV
 
 
 bash
