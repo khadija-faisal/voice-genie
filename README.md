@@ -11,7 +11,6 @@ This project uses modern tools like the `uv` package manager and the `subprocess
 - 🎙️ Voice recognition using your microphone
 - 🗣️ Converts text to speech responses
 - 🌦️ Real-time weather information using OpenWeatherMap API
-- 🧠 AI-powered answers using OpenAI (optional)
 - ⚙️ Opens Windows applications via `subprocess` (Notepad, Explorer, Calculator)
 - 🌐 Opens websites like Google and YouTube
 - 🤪 Tells jokes using the PyJokes library
